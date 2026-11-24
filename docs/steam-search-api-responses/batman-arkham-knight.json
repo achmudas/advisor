@@ -1,0 +1,195 @@
+{
+  "total": 10,
+  "items": [
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight",
+      "id": 208650,
+      "price": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 399
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/208650\/capsule_231x87.jpg?t=1794605442",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - 1989 Movie Batmobile Pack",
+      "id": 401621,
+      "price": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 99
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/401621\/capsule_231x87.jpg?t=1677880704",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - 2008 Tumbler Batmobile Pack",
+      "id": 401629,
+      "price": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 99
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/401629\/capsule_231x87.jpg?t=1677880704",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - 1st Appearance Batman Skin",
+      "id": 356470,
+      "price": {
+        "currency": "USD",
+        "initial": 99,
+        "final": 79
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/356470\/capsule_231x87.jpg?t=1512409297",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - 1970s Batman Themed Batmobile Skin",
+      "id": 405030,
+      "price": {
+        "currency": "USD",
+        "initial": 99,
+        "final": 79
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/405030\/capsule_231x87.jpg?t=1677880704",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight Season Pass",
+      "id": 367480,
+      "price": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 499
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/367480\/capsule_231x87.jpg?t=1564443296",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - GCPD Lockdown",
+      "id": 401628,
+      "price": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 99
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/401628\/capsule_231x87.jpg?t=1677880704",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - Original Arkham Batmobile",
+      "id": 405032,
+      "price": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 99
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/405032\/capsule_231x87.jpg?t=1677880704",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - A Matter of Family",
+      "id": 313102,
+      "price": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 174
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/313102\/capsule_231x87.jpg?t=1449781153",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Batman™: Arkham Knight - Prototype Batmobile Skin",
+      "id": 350171,
+      "price": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 99
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/350171\/capsule_231x87.jpg?t=1449788541",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    }
+  ]
+}

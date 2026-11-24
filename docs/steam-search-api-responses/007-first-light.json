@@ -1,0 +1,155 @@
+{
+  "total": 10,
+  "items": [
+    {
+      "type": "app",
+      "name": "007 First Light",
+      "id": 3768760,
+      "price": {
+        "currency": "USD",
+        "initial": 6999,
+        "final": 3499
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3768760\/b22c316df2d62a2d1edd8e2bbac3e3d503a09cd9\/capsule_231x87_alt_assets_5.jpg?t=1795019577",
+      "metascore": "84",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Deluxe Edition Upgrade",
+      "id": 3986520,
+      "price": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 999
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3986520\/da1760c971af6c00a590b036f54773e82227aac8\/capsule_231x87.jpg?t=1779982335",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light Free Starter Pack",
+      "id": 5283790,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/5283790\/25384b88a5ab84e5ee13f6e49a164a094011f103\/capsule_231x87.jpg?t=1795441001",
+      "metascore": "84",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Gleaming Earphones (Gadget Skin)",
+      "id": 3950810,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3950810\/84f8ef28a0c608eb0e22d605074191df56c4c3f9\/capsule_231x87.jpg?t=1779802564",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Silent Anchor (Exclusive Outfit) ",
+      "id": 3950910,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3950910\/e3576d6b6917010c64fe3255ae5d5c2e4f008a12\/capsule_231x87.jpg?t=1779802843",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Agent's Mark (Weapon Skin)",
+      "id": 3950930,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3950930\/dba17731b00137ccbf4534eff3d5539c32b044ff\/capsule_231x87.jpg?t=1779802819",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Gleaming Lighter (Gadget Skin)",
+      "id": 3950820,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3950820\/84f8ef28a0c608eb0e22d605074191df56c4c3f9\/capsule_231x87.jpg?t=1779802582",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Gentleman Operator (Exclusive Outfit)",
+      "id": 3950900,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3950900\/e3576d6b6917010c64fe3255ae5d5c2e4f008a12\/capsule_231x87.jpg?t=1779802787",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Desert Explorer (Exclusive Outfit)",
+      "id": 3950880,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3950880\/e3576d6b6917010c64fe3255ae5d5c2e4f008a12\/capsule_231x87.jpg?t=1779802730",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "007 First Light - Gleaming Phone (Gadget Skin)",
+      "id": 3950850,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3950850\/84f8ef28a0c608eb0e22d605074191df56c4c3f9\/capsule_231x87.jpg?t=1779802647",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    }
+  ]
+}

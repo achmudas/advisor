@@ -1,0 +1,131 @@
+[
+  {
+    "id": "018d937f-699e-7346-b27c-0b1b48f926c3",
+    "historyLow": {
+      "all": {
+        "amount": 5.99,
+        "amountInt": 599,
+        "currency": "EUR"
+      },
+      "y1": {
+        "amount": 5.99,
+        "amountInt": 599,
+        "currency": "EUR"
+      },
+      "m3": {
+        "amount": 5.99,
+        "amountInt": 599,
+        "currency": "EUR"
+      }
+    },
+    "deals": [
+      {
+        "shop": {
+          "id": 61,
+          "name": "Steam"
+        },
+        "price": {
+          "amount": 5.99,
+          "amountInt": 599,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 59.99,
+          "amountInt": 5999,
+          "currency": "EUR"
+        },
+        "cut": 90,
+        "voucher": null,
+        "storeLow": {
+          "amount": 5.99,
+          "amountInt": 599,
+          "currency": "EUR"
+        },
+        "flag": "H",
+        "drm": [],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-19T19:20:48+01:00",
+        "expiry": "2026-12-03T19:00:00+01:00",
+        "url": "https:\/\/itad.link\/018d9386-4a2a-7092-ba44-845a67389e16\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 52,
+          "name": "EA Store"
+        },
+        "price": {
+          "amount": 5.99,
+          "amountInt": 599,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 59.99,
+          "amountInt": 5999,
+          "currency": "EUR"
+        },
+        "cut": 90,
+        "voucher": null,
+        "storeLow": {
+          "amount": 5.99,
+          "amountInt": 599,
+          "currency": "EUR"
+        },
+        "flag": "H",
+        "drm": [
+          {
+            "id": 52,
+            "name": "EA App"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-19T19:42:12+01:00",
+        "expiry": "2026-12-03T19:30:00+01:00",
+        "url": "https:\/\/itad.link\/018d9386-4a2a-7092-ba44-845a66206bd3\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 16,
+          "name": "Epic Game Store"
+        },
+        "price": {
+          "amount": 59.99,
+          "amountInt": 5999,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 59.99,
+          "amountInt": 5999,
+          "currency": "EUR"
+        },
+        "cut": 0,
+        "voucher": null,
+        "storeLow": {
+          "amount": 8.99,
+          "amountInt": 899,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 16,
+            "name": "Epic"
+          }
+        ],
+        "platforms": [],
+        "timestamp": "2026-11-02T18:06:37+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d959d-49f4-72ca-bb48-69a92b79a691\/?app=0rk3s2"
+      }
+    ]
+  }
+]

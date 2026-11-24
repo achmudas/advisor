@@ -1,0 +1,74 @@
+{
+  "total": 4,
+  "items": [
+    {
+      "type": "app",
+      "name": "Fort Solis",
+      "id": 1931730,
+      "price": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 499
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/1931730\/bc20cd4bc842be02228bbb4c6a7767c638fc2021\/capsule_231x87.jpg?t=1745509581",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Fort Solis - 1 Year Anniversary Digital Goodies",
+      "id": 3160390,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/3160390\/e36a30c6501f0b0a5a760e605b9f315f7feb975f\/capsule_231x87.jpg?t=1724659623",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "streamingvideo": false
+    },
+    {
+      "type": "app",
+      "name": "Fort Solis - Artbook",
+      "id": 2545430,
+      "price": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 99
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/2545430\/capsule_231x87.jpg?t=1692723614",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Fort Solis Soundtrack",
+      "id": 2545420,
+      "price": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 99
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/2545420\/capsule_231x87.jpg?t=1692723604",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "streamingvideo": false
+    }
+  ]
+}

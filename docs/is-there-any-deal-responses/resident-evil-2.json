@@ -1,0 +1,677 @@
+[
+  {
+    "id": "018d937f-781e-716d-acee-7650541ad533",
+    "historyLow": {
+      "all": {
+        "amount": 6.17,
+        "amountInt": 617,
+        "currency": "EUR"
+      },
+      "y1": {
+        "amount": 6.79,
+        "amountInt": 679,
+        "currency": "EUR"
+      },
+      "m3": {
+        "amount": 6.79,
+        "amountInt": 679,
+        "currency": "EUR"
+      }
+    },
+    "deals": [
+      {
+        "shop": {
+          "id": 6,
+          "name": "Fanatical"
+        },
+        "price": {
+          "amount": 6.79,
+          "amountInt": 679,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 83,
+        "voucher": null,
+        "storeLow": {
+          "amount": 6.79,
+          "amountInt": 679,
+          "currency": "EUR"
+        },
+        "flag": "S",
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-20T10:09:39+01:00",
+        "expiry": "2026-11-28T00:59:00+01:00",
+        "url": "https:\/\/itad.link\/018f53e9-868a-732f-9340-2e20d304ef8d\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 78,
+          "name": "Zapagames"
+        },
+        "price": {
+          "amount": 7.17,
+          "amountInt": 717,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 82,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.13,
+          "amountInt": 713,
+          "currency": "EUR"
+        },
+        "flag": "S",
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-23T22:09:51+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/01a08df7-d08e-7286-a707-b1751482a088\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 64,
+          "name": "WinGameStore"
+        },
+        "price": {
+          "amount": 7.3,
+          "amountInt": 730,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 36.55,
+          "amountInt": 3655,
+          "currency": "EUR"
+        },
+        "cut": 80,
+        "voucher": null,
+        "storeLow": {
+          "amount": 6.84,
+          "amountInt": 684,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-23T19:45:27+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d14bf525e8\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 36,
+          "name": "GreenManGaming"
+        },
+        "price": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 80,
+        "voucher": null,
+        "storeLow": {
+          "amount": 6.8,
+          "amountInt": 680,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-20T12:16:16+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d146d1228c\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 24,
+          "name": "GamersGate"
+        },
+        "price": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 80,
+        "voucher": null,
+        "storeLow": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "flag": "S",
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-23T00:10:02+01:00",
+        "expiry": "2026-12-06T23:59:59+01:00",
+        "url": "https:\/\/itad.link\/0193f39b-ad81-71c6-9c88-5774142b0712\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 20,
+          "name": "GameBillet"
+        },
+        "price": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 80,
+        "voucher": null,
+        "storeLow": {
+          "amount": 6.7,
+          "amountInt": 670,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-23T19:06:12+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e5-72af-9986-f4ffc82da0e9\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 73,
+          "name": "PlanetPlay"
+        },
+        "price": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 80,
+        "voucher": null,
+        "storeLow": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "flag": "S",
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-23T20:08:16+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/019852bb-69eb-7385-91b3-e0a1f77dbaf9\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 37,
+          "name": "Humble Store"
+        },
+        "price": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 80,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.99,
+          "amountInt": 799,
+          "currency": "EUR"
+        },
+        "flag": "S",
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-23T23:36:06+01:00",
+        "expiry": "2026-12-03T19:00:00+01:00",
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d1484c1795\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 28,
+          "name": "GamesPlanet FR"
+        },
+        "price": {
+          "amount": 35.99,
+          "amountInt": 3599,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 10,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.44,
+          "amountInt": 744,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-09T10:01:42+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d1456db145\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 27,
+          "name": "GamesPlanet DE"
+        },
+        "price": {
+          "amount": 35.99,
+          "amountInt": 3599,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 10,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.44,
+          "amountInt": 744,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-09T10:21:05+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d144e84a6b\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 74,
+          "name": "PlayerLand"
+        },
+        "price": {
+          "amount": 35.99,
+          "amountInt": 3599,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 10,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.49,
+          "amountInt": 749,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-12T12:23:39+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/019c0b72-8144-7024-beef-3677795c2da6\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 26,
+          "name": "GamesPlanet UK"
+        },
+        "price": {
+          "amount": 37.61,
+          "amountInt": 3761,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 41.78,
+          "amountInt": 4178,
+          "currency": "EUR"
+        },
+        "cut": 10,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.41,
+          "amountInt": 741,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-09T10:20:37+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d143f7878d\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 61,
+          "name": "Steam"
+        },
+        "price": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 0,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.99,
+          "amountInt": 799,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-03T19:20:03+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d14e061d15\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 48,
+          "name": "Microsoft Store"
+        },
+        "price": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 0,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.99,
+          "amountInt": 799,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 48,
+            "name": "Microsoft Store"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-05T11:10:36+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e5-72af-9986-f4ffc260c8b7\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 42,
+          "name": "IndieGala Store"
+        },
+        "price": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 0,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.99,
+          "amountInt": 799,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-07T01:14:56+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/018d9386-b7e6-739d-8ea9-54d14a24a8da\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 77,
+          "name": "Muve"
+        },
+        "price": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 0,
+        "voucher": null,
+        "storeLow": {
+          "amount": 8,
+          "amountInt": 800,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [
+          {
+            "id": 1,
+            "name": "Windows"
+          }
+        ],
+        "timestamp": "2026-11-16T16:22:55+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/019eb6e5-00c5-711b-8c89-d747cc3409f7\/?app=0rk3s2"
+      },
+      {
+        "shop": {
+          "id": 65,
+          "name": "JoyBuggy"
+        },
+        "price": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "regular": {
+          "amount": 39.99,
+          "amountInt": 3999,
+          "currency": "EUR"
+        },
+        "cut": 0,
+        "voucher": null,
+        "storeLow": {
+          "amount": 7.8,
+          "amountInt": 780,
+          "currency": "EUR"
+        },
+        "flag": null,
+        "drm": [
+          {
+            "id": 61,
+            "name": "Steam"
+          }
+        ],
+        "platforms": [],
+        "timestamp": "2026-11-20T14:26:29+01:00",
+        "expiry": null,
+        "url": "https:\/\/itad.link\/01a1f922-f45b-700e-a1ca-369ea9b55d29\/?app=0rk3s2"
+      }
+    ]
+  }
+]

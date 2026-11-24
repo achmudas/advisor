@@ -1,0 +1,178 @@
+{
+  "total": 10,
+  "items": [
+    {
+      "type": "app",
+      "name": "Resident Evil 2",
+      "id": 883710,
+      "price": {
+        "currency": "USD",
+        "initial": 3999,
+        "final": 3999
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/883710\/capsule_231x87.jpg?t=1779433152",
+      "metascore": "89",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 (1998)",
+      "id": 4249110,
+      "price": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/4249110\/e93655242b20976a69ff4357d8ce50ddb1ec77ed\/capsule_231x87.jpg?t=1775090214",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false
+    },
+    {
+      "type": "sub",
+      "name": "RESIDENT EVIL 2 \/ BIOHAZARD RE:2 Deluxe Edition",
+      "id": 281610,
+      "price": {
+        "currency": "USD",
+        "initial": 4999,
+        "final": 4999
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/subs\/281610\/capsule_231x87.jpg?t=1549063193",
+      "metascore": 0,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 - All In-game Rewards Unlocked",
+      "id": 920571,
+      "price": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/920571\/capsule_231x87.jpg?t=1592792617",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 Original Soundtrack",
+      "id": 1335170,
+      "price": {
+        "currency": "USD",
+        "initial": 1899,
+        "final": 1899
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/1335170\/capsule_231x87.jpg?t=1593100920",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "streamingvideo": false
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 - Claire Costume: Noir",
+      "id": 920563,
+      "price": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 299
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/920563\/capsule_231x87.jpg?t=1728438746",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 - Leon Costume: Noir",
+      "id": 920561,
+      "price": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 299
+      },
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/920561\/capsule_231x87.jpg?t=1728438730",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 \"R.P.D. Demo\"",
+      "id": 1168280,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/1168280\/capsule_231x87.jpg?t=1728447975",
+      "metascore": "89",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 - Leon Costume: 98'",
+      "id": 920565,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/920565\/capsule_231x87.jpg?t=1592791564",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    },
+    {
+      "type": "app",
+      "name": "Resident Evil 2 - Claire Costume: 98'",
+      "id": 920566,
+      "tiny_image": "https:\/\/shared.akamai.steamstatic.com\/store_item_assets\/steam\/apps\/920566\/capsule_231x87.jpg?t=1592792137",
+      "metascore": "",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "streamingvideo": false,
+      "controller_support": "full"
+    }
+  ]
+}
