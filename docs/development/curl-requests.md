@@ -2,7 +2,7 @@
 
 * To find game ID from Steam using search query: 
 ```bash
-curl 'https://store.steampowered.com/api/storesearch?term=<search_query>&cc=EU'
+curl 'https://store.steampowered.com/api/storesearch?term=<search_query>&cc=LT'
 ```
 
 * To get Steam Deck compatability:
